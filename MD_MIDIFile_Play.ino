@@ -28,7 +28,7 @@ uint16_t  plCount = 0;
 
 #define DEBUG(x)
 #define DEBUGX(x)
-#define SERIAL_RATE 9600
+#define SERIAL_RATE 31250
 
 #else // don't use MIDI to allow printing debug statements
 
